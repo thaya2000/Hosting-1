@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <Nav />
-      <h1>Welcome to the Thaya page.</h1>
+      <h1>Welcome to the Thaya update page.</h1>
     </>
   );
 }
